@@ -4,8 +4,8 @@
    ============================================================ */
 
 const MindScoreAPI = (() => {
-
-  const ENDPOINT = "https://mind-health-tracker-1.onrender.com";
+##https://mind-health-tracker-1.onrender.com
+  const ENDPOINT = "mind-health-tracker.vercel.app";
   const TIMEOUT_MS = 15000;
 
   /**
