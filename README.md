@@ -20,8 +20,6 @@ An AI-powered Mental Health Tracker that helps users monitor their mental well-b
 
 
 
-> Replace these images with your own screenshots.
-
 ---
 
 ## 🛠️ Tech Stack
