@@ -5,7 +5,7 @@
 
 const MindScoreAPI = (() => {
 
-  const BASE_URL = "https://mind-health-tracker-1.onrender.com";
+  const BASE_URL = "https://mind-health-tracker-at-vc6x.onrender.com";
   const ENDPOINT = `${BASE_URL}/predict`;
   // Render's free tier spins the service down after inactivity; the first
   // request after that can take 30-50s to cold-start. Give it real headroom.
