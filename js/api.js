@@ -5,7 +5,7 @@
 
 const MindScoreAPI = (() => {
 
-  const ENDPOINT = "mind-health-tracker.vercel.app";
+  const ENDPOINT = "https://mansik-santulan-score.onrender.com";
   const TIMEOUT_MS = 15000;
 
   /**
