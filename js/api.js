@@ -4,12 +4,12 @@
    ============================================================ */
 
 const MindScoreAPI = (() => {
-##https://mind-health-tracker-1.onrender.com
+
   const ENDPOINT = "mind-health-tracker.vercel.app";
   const TIMEOUT_MS = 15000;
 
   /**
-   * Coerce raw form values into the exact JSON shape the backend expects.
+   * Coerce raw form values into the exact JSON shape the backend expects. https://mind-health-tracker-1.onrender.com
    */
   function buildPayload(values) {
     return {
