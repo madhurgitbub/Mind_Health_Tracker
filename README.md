@@ -18,13 +18,7 @@ An AI-powered Mental Health Tracker that helps users monitor their mental well-b
 
 ---
 
-## 🖥️ Demo
 
-### Home Page
-<img width="100%" alt="Home" src="assets/home.png">
-
-### Prediction Dashboard
-<img width="100%" alt="Dashboard" src="assets/dashboard.png">
 
 > Replace these images with your own screenshots.
 
