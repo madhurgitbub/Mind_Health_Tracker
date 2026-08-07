@@ -5,7 +5,7 @@
 
 const MindScoreAPI = (() => {
 
-  const ENDPOINT = 'http://127.0.0.1:8000/predict';
+  const ENDPOINT = "https://mind-health-tracker-1.onrender.com";
   const TIMEOUT_MS = 15000;
 
   /**
